@@ -1,3 +1,6 @@
+# from https://pyimagesearch.com/2018/04/30/a-fun-hands-on-deep-learning-project-for-beginners-students-and-hobbyists/
+# modified to use different background/mask images & display percent accuracy
+
 # import the necessary packages
 from tensorflow.keras.utils import img_to_array
 from keras.models import load_model

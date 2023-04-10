@@ -1,3 +1,5 @@
+# modified script from the imutils package to utilize picamera2 rather than the recently outdated (September 2022) picamera package
+
 # import the necessary packages
 from picamera2 import Picamera2, Preview
 from threading import Thread
