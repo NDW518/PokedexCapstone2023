@@ -1,3 +1,6 @@
+# from https://pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/
+# updated for legacy use of Adam optimizer
+
 # set the matplotlib backend so figures can be saved in the background
 import matplotlib
 matplotlib.use("Agg")
