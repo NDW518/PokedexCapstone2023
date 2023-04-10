@@ -1,0 +1,71 @@
+{
+	"charmander": {
+		"height": "2' 0\"",
+		"weight": "18.7 lbs"
+	},
+	"bulbasaur": {
+		"height": "2' 4\"",
+		"weight": "15.2 lbs"
+	},
+	"squirtle": {
+		"height": "1' 8\"",
+		"weight": "19.8 lbs"
+	},
+	"pikachu": {
+		"height": "1' 4\"",
+		"weight": "13.2 lbs"
+	},
+	"mewtwo": {
+		"height": "6' 7\"",
+		"weight": "269 lbs"
+	},
+        "charizard": {
+                "height": "5' 7\"",
+                "weight": "199.5 lbs"
+        },
+        "jigglypuff": {
+                "height": "1' 8\"",
+                "weight": "12.1 lbs"
+        },
+        "gengar": {
+                "height": "4' 11\"",
+                "weight": "89.3 lbs"
+        },
+        "lapras": {
+                "height": "8' 2\"",
+                "weight": "485.0 lbs"
+        },
+        "lucario": {
+                "height": "3' 11\"",
+                "weight": "119.0 lbs"
+        },
+        "mew": {
+                "height": "1' 4\"",
+                "weight": "8.8 lbs"
+        },
+        "nidoran": {
+                "height": "1' 8\"",
+                "weight": "19.8 lbs"
+        },
+        "oshawatt": {
+                "height": "1' 8\"",
+                "weight": "13.0 lbs"
+        },
+        "piplup": {
+                "height": "1' 4\"",
+                "weight": "11.5 lbs"
+        },
+        "reshiram": {
+                "height":"10' 6\"",
+                "weight": "727.5 lbs"
+        },
+        "snorlax": {
+                "height": "6' 11\"",
+                "weight": "1014.1 lbs"
+        },
+        "zekrom": {
+                "height": "9' 6\"",
+                "weight": "760.6 lbs"
+        }
+
+}
